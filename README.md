@@ -1,4 +1,3 @@
-<div align="center">
 ---
 
 ### 👋 关于我
@@ -69,9 +68,10 @@
 
 <!-- 这里可以使用 GitHub Actions 自动同步你的博客文章 -->
 <!-- 示例：使用 blog-post-workflow -->
-- [文章标题 1](链接) - 发布日期
-- [文章标题 2](链接) - 发布日期
-- [文章标题 3](链接) - 发布日期
+- [智课系统后端]([链接](https://github.com/xxh-ui/flask-edu-backend))
+- [智课系统前端]([链接](https://github.com/xxh-ui/vue-edu-frontend))
+- [数据分析系统前端]([链接](https://github.com/xxh-ui/python_homework_frontend))
+- [数据分析系统后端]([链接](https://github.com/xxh-ui/python_homework_backend))
 
 ---
 
@@ -93,11 +93,3 @@
 </p>
 
 ---
-
-<div align="center">
-
-### 🎵 此刻正在聆听
-
-[![Spotify](https://spotify-now-playing-git-main-username.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)
-
-</div>
