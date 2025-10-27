@@ -1,23 +1,18 @@
-<!-- 顶部横幅/介绍 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F7D2&center=true&vCenter=true&width=435&lines=你好，世界！;Hello, World!;欢迎来到我的代码空间！" alt="打字效果" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F7D2&center=true&vCenter=true&width=435&lines=你好，世界！;Hello, World!;欢迎来到我的代码空间！" />
 </div>
 
 ---
 
 ### 👋 关于我
 
-我是 `[你的名字/昵称]`，一名 `[你的职位，例如：后端开发工程师 / 全栈开发者 / 学生]`。
+我是 `[薛晓虎]`，一名 `[嵌入式爱好者与软件开发学习者]`。
 
-- 🔭 **目前正在：** `[例如：开发一个微服务项目 / 学习深度学习]`
-- 🌱 **正在学习：** `[例如：Rust, Kubernetes, 系统设计]`
-- 👯 **希望合作：** `[例如：开源项目，特别是与 [某个领域] 相关的]`
-- 🤔 **需要帮助：** `[例如：关于 [某个技术] 的最佳实践]`
-- 💬 **可以问我：** `[例如：Java, Spring Boot, MySQL, Linux]`
-- 📫 **如何联系我：** `[你的邮箱或其他联系方式]`
-- 📝 **我的博客：** `[你的博客链接]`
-- 😄 **代词：** `他/她`
-- ⚡ **趣闻：** `[一个关于你的有趣事实，例如：我曾经在 3 天内看完一部 80 集的电视剧]`
+- 🔭 **目前正在：** `[开发一个微服务项目 / 学习深度学习]`
+- 🌱 **正在学习：** `[Linux、软件开发]`
+- 👯 **希望合作：** `[开源项目，特别是与自动驾驶相关的]`
+- 💬 **可以问我：** `[Apollo、Java, Spring Boot, MySQL, Linux]`
+- 📫 **如何联系我：** `[3573669622@qq.com]`
 
 ---
 
@@ -26,10 +21,8 @@
 #### 💻 **编程语言**
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 #### 🧩 **框架与库**
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
