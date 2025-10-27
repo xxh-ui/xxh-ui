@@ -1,10 +1,6 @@
-## Hi there 👋
+# Hi there, I'm [Your Name]! 👋
 
-<!--
-**xxh-ui/xxh-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### 👨‍💻 About Me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +9,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### 🛠️ Languages and Tools
+[在这里列出你熟悉的技术栈图标]
+
+### 📈 GitHub Stats
+[在这里放置你的GitHub数据统计图]
+
+### 📝 Latest Blog Posts
+<!-- 这里可以通过GitHub Actions自动同步你的博客文章列表 -->
