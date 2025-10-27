@@ -68,10 +68,10 @@
 
 <!-- 这里可以使用 GitHub Actions 自动同步你的博客文章 -->
 <!-- 示例：使用 blog-post-workflow -->
-- [智课系统后端]([链接](https://github.com/xxh-ui/flask-edu-backend))
-- [智课系统前端]([链接](https://github.com/xxh-ui/vue-edu-frontend))
-- [数据分析系统前端]([链接](https://github.com/xxh-ui/python_homework_frontend))
-- [数据分析系统后端]([链接](https://github.com/xxh-ui/python_homework_backend))
+- [智课系统后端][链接](https://github.com/xxh-ui/flask-edu-backend)
+- [智课系统前端][链接](https://github.com/xxh-ui/vue-edu-frontend)
+- [数据分析系统前端][链接](https://github.com/xxh-ui/python_homework_frontend)
+- [数据分析系统后端][链接](https://github.com/xxh-ui/python_homework_backend)
 
 ---
 
