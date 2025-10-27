@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F7D2&center=true&vCenter=true&width=435&lines=你好，世界！;Hello, World!;欢迎来到我的代码空间！" />
-</div>
-
 ---
 
 ### 👋 关于我
